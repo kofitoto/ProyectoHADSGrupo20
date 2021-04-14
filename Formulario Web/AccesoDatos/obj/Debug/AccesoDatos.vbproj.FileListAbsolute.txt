@@ -1,0 +1,56 @@
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\olari\Desktop\uni\2020-2021\2 cuatri\HADS\LABS\LAB2y3\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.Crypto.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.Crypto.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CopyComplete
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.Crypto.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\bin\Debug\OC.Core.Crypto.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CopyComplete

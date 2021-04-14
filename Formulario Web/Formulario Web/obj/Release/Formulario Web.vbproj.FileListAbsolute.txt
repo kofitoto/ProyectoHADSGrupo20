@@ -1,0 +1,223 @@
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll.config
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.pdb
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe.config
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.rsp
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe.config
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.rsp
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.AppContext.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Console.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe.config
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.rsp
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.pdb
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbprojAssemblyReference.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario_Web.Resources.resources
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.GenerateResource.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CoreCompileInputs.cache
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CopyComplete
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.dll
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.xml
+C:\Users\Kofi\Desktop\LABORATORIOS\HADS\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.rsp
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.rsp
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.AppContext.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Console.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Http.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.rsp
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbprojAssemblyReference.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario_Web.Resources.resources
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.GenerateResource.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CoreCompileInputs.cache
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CopyComplete
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.xml
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.exe.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csc.rsp
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.exe.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\csi.rsp
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.AppContext.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Console.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.exe.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\vbc.rsp
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbprojAssemblyReference.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario_Web.Resources.resources
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.GenerateResource.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CoreCompileInputs.cache
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.vbproj.CopyComplete
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.xml
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\BouncyCastle.Crypto.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.Crypto.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.dll.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.dll.config
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\BouncyCastle.Crypto.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.pdb
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.Crypto.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\BouncyCastle.Crypto.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.Crypto.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.dll
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AccesoDatos.dll.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\EnvioEmail.dll.config
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\BouncyCastle.Crypto.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.pdb
+C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.Crypto.pdb
