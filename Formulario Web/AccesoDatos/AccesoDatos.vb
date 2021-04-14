@@ -26,7 +26,7 @@ Public Class AccesoDatos
 
     Public Shared Function conectar() As String
         Try
-            conexion.ConnectionString = "Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+            conexion.ConnectionString = ""
             conexion.Open()
         Catch ex As Exception
             Return "ERROR DE CONEXIÓN: " + ex.Message
@@ -56,7 +56,7 @@ Public Class AccesoDatos
         Dim da As New SqlDataAdapter
 
         Try
-            Dim conec As New SqlConnection("Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
+            Dim conec As New SqlConnection("")
             da = New SqlDataAdapter($"select * from {tabla}", conec)
 
         Catch ex As Exception
