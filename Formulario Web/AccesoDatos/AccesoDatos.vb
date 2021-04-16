@@ -26,7 +26,7 @@ Public Class AccesoDatos
 
     Public Shared Function conectar() As String
         Try
-            conexion.ConnectionString = ""
+            conexion.ConnectionString = "Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
             conexion.Open()
         Catch ex As Exception
             Return "ERROR DE CONEXIÓN: " + ex.Message
@@ -56,7 +56,7 @@ Public Class AccesoDatos
         Dim da As New SqlDataAdapter
 
         Try
-            Dim conec As New SqlConnection("")
+            Dim conec As New SqlConnection("Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
             da = New SqlDataAdapter($"select * from {tabla}", conec)
 
         Catch ex As Exception
@@ -250,26 +250,19 @@ Public Class AccesoDatos
         Return done
     End Function
 
-    Public Function agregarProfesorLoguedo(ByVal email As String) As Integer
+    Public Sub agregarProfesorLoguedo(ByVal email As String)
         If Not profesores.Contains(email) Then
             profesores.Add(email)
             profesoresContador = profesores.Count
-            Return 1
-        Else
-            Return 0
         End If
+    End Sub
 
-    End Function
-
-    Public Function agregarAlumnoLoguedo(ByVal email As String) As Integer
+    Public Sub agregarAlumnoLoguedo(ByVal email As String)
         If Not alumnos.Contains(email) Then
             alumnos.Add(email)
             alumnosContador = alumnos.Count
-            Return 1
-        Else
-            Return 0
         End If
-    End Function
+    End Sub
 
     Public Function getsAlumnosLoguedo() As ArrayList
         Return alumnos
@@ -287,23 +280,17 @@ Public Class AccesoDatos
         Return alumnos.Count
     End Function
 
-    Public Function borrarAlumnoLoguedo(ByVal email As String) As Integer
+    Public Sub borrarAlumnoLoguedo(ByVal email As String)
         If alumnos.Contains(email) Then
             alumnos.Remove(email)
             alumnosContador = alumnos.Count
-            Return 1
-        Else
-            Return 0
         End If
-    End Function
+    End Sub
 
-    Public Function borrarprofesorLoguedo(ByVal email As String) As Integer
+    Public Sub borrarprofesorLoguedo(ByVal email As String)
         If profesores.Contains(email) Then
             profesores.Remove(email)
             profesoresContador = profesores.Count
-            Return 1
-        Else
-            Return 0
         End If
-    End Function
+    End Sub
 End Class

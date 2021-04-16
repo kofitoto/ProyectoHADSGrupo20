@@ -2,7 +2,7 @@
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        Dim x = CType(Application.Contents("Logueados"), AccesoDatos.AccesoDatos)
+        Dim x = CType(Application("Logueados"), AccesoDatos.AccesoDatos)
         Dim alumnos = x.getsAlumnosLoguedo
         Dim profesores = x.getprofesoresLoguedo
         Dim nProf = x.getNumProfesores
@@ -12,10 +12,10 @@
         ListBox2.Items.Clear()
         ListBox3.Items.Clear()
         For Each a In alumnos
-            ListBox2.Items.Add(e.ToString)
+            ListBox2.Items.Add(a.ToString)
         Next
         For Each p In profesores
-            ListBox3.Items.Add(e.ToString)
+            ListBox3.Items.Add(p.ToString)
         Next
     End Sub
 

@@ -77,6 +77,33 @@ Partial Public Class WebForm4
     Protected WithEvents LinkButton6 As Global.System.Web.UI.WebControls.LinkButton
 
     '''<summary>
+    '''Control ScriptManager1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents ScriptManager1 As Global.System.Web.UI.ScriptManager
+
+    '''<summary>
+    '''Control Timer1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents Timer1 As Global.System.Web.UI.Timer
+
+    '''<summary>
+    '''Control UpdatePanel4.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents UpdatePanel4 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
     '''Control Label1.
     '''</summary>
     '''<remarks>
@@ -95,6 +122,15 @@ Partial Public Class WebForm4
     Protected WithEvents Label4 As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
+    '''Control UpdatePanel5.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents UpdatePanel5 As Global.System.Web.UI.UpdatePanel
+
+    '''<summary>
     '''Control Label2.
     '''</summary>
     '''<remarks>
@@ -111,24 +147,6 @@ Partial Public Class WebForm4
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Control ScriptManager1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents ScriptManager1 As Global.System.Web.UI.ScriptManager
-
-    '''<summary>
-    '''Control Timer1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents Timer1 As Global.System.Web.UI.Timer
 
     '''<summary>
     '''Control UpdatePanel3.

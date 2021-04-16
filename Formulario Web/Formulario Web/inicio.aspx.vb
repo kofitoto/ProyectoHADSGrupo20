@@ -17,6 +17,7 @@
         Dim has As New OC.Core.Crypto.Hash
         Dim contraEncriptado = has.MD5(TextBox3.Text).ToLower
         Dim val = AccesoDatos.AccesoDatos.verificarLogin(TextBox2.Text, contraEncriptado)
+        Dim x As AccesoDatos.AccesoDatos = Application.Contents("Logueados")
         Try
             If val(0) = TextBox2.Text And val(1).Equals(contraEncriptado) Then
                 'MsgBox("Te has logueado correctamente!")
@@ -35,9 +36,12 @@
                 If Request.QueryString.Get("ReturnUrl") = Nothing Then
 
                     If val(2) = "Alumno" Then
-
+                        x.agregarAlumnoLoguedo(Session("emailUsuario"))
+                        Application.Contents("Logueados") = x
                         Response.Redirect("alumno.aspx")
                     Else
+                        x.agregarProfesorLoguedo(Session("emailUsuario"))
+                        Application.Contents("Logueados") = x
                         Response.Redirect("profesor.aspx")
                     End If
                 End If

@@ -24,7 +24,7 @@
         }
     </style>
 </head>
-<body onload="window.history.forward()">
+<body onload="window.history.forward()" >
     <form id="form2" runat="server">
         <table class="auto-style1">
             <tr>

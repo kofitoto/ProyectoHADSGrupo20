@@ -10,6 +10,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Button ID="Button1" runat="server" CausesValidation="False" PostBackUrl="~/inicio.aspx" Text="Login" />
+            <asp:Label ID="Label1" runat="server" Text="Label" Visible="False"></asp:Label>
         </div>
     </form>
 </body>

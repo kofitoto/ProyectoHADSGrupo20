@@ -9,10 +9,15 @@ Public Class confirmar
         Dim codigo = Convert.ToInt32(Request.QueryString("codigo"))
         Dim val = AccesoDatos.AccesoDatos.confirmar(Mail, codigo)
         If val = 1 Then
-            MsgBox("Te has confirmado correctamente!")
-            Response.Redirect("inicio.aspx")
+            Label1.Text = "Te has confirmado correctamente!"
+            Label1.ForeColor = Drawing.Color.Green
+            Label1.Visible = True
+            'MsgBox("Te has confirmado correctamente!")
         Else
-            MsgBox("No se ha podido confirmar consulte nuestro soporte tecnico")
+            Label1.Text = "No se ha podido confirmar consulte nuestro soporte tecnico"
+            Label1.BorderColor = Drawing.Color.Red
+            Label1.Visible = True
+            'MsgBox("No se ha podido confirmar consulte nuestro soporte tecnico")
         End If
     End Sub
 End Class

@@ -104,7 +104,7 @@
                 <td class="auto-style14">
                     </td>
                 <td class="auto-style12">
-                    <asp:Label ID="Label1" runat="server" Text="Instaciación correcta" Width="270px" Visible="False" EnableViewState="False"></asp:Label>
+                    <asp:Label ID="Label1" runat="server" Text="Instanciación correcta" Width="270px" Visible="False"></asp:Label>
                 </td>
                 <td class="auto-style13"></td>
             </tr>

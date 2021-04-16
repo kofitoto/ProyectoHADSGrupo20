@@ -34,7 +34,7 @@ Public Class tareasProfesor
 
     Protected Sub LinkButton1_Click(sender As Object, e As EventArgs) Handles LinkButton1.Click
         FormsAuthentication.SignOut()
-        Session.Clear()
+        Session.Abandon()
         Response.Redirect("inicio.aspx")
 
     End Sub

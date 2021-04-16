@@ -4,25 +4,11 @@ Public Class Global_asax
 
     Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
         ' Se desencadena al iniciar la aplicación
-
         Application.Contents("Logueados") = New AccesoDatos.AccesoDatos
     End Sub
 
     Sub Session_Start(ByVal sender As Object, ByVal e As EventArgs)
-        ' Se desencadena al iniciar la sesión
-        Application.Lock()
-        If Session("tipoUsuario") = "alumno" Then
-            Dim x = CType(Application.Contents("Logueados"), AccesoDatos.AccesoDatos)
-            x.agregarAlumnoLoguedo(Session("emailUsuario"))
-            Application.Contents("Logueados") = x
 
-        ElseIf Session("tipoUsuario") = "profesor" Or Session("tipoUsuario") = "vadillo" Then
-            Dim x = CType(Application.Contents("Logueados"), AccesoDatos.AccesoDatos)
-            x.agregarProfesorLoguedo(Session("emailUsuario"))
-            Application.Contents("Logueados") = x
-        End If
-
-        Application.UnLock()
     End Sub
 
     Sub Application_BeginRequest(ByVal sender As Object, ByVal e As EventArgs)
@@ -40,15 +26,17 @@ Public Class Global_asax
     Sub Session_End(ByVal sender As Object, ByVal e As EventArgs)
         ' Se desencadena cuando finaliza la sesión
         Application.Lock()
-        If Session("tipoUsuario") = "alumno" Then
-            Dim x = CType(Application.Contents("Logueados"), AccesoDatos.AccesoDatos)
+        Dim x As AccesoDatos.AccesoDatos = Application.Contents("Logueados")
+        If Session("tipoUsuario") = "Alumno" Then
+
             x.borrarAlumnoLoguedo(Session("emailUsuario"))
             Application.Contents("Logueados") = x
 
-        ElseIf Session("tipoUsuario") = "profesor" Or Session("tipoUsuario") = "vadillo" Then
-            Dim x = CType(Application.Contents("Logueados"), AccesoDatos.AccesoDatos)
+        Else
+
             x.borrarprofesorLoguedo(Session("emailUsuario"))
             Application.Contents("Logueados") = x
+
         End If
         Application.UnLock()
     End Sub

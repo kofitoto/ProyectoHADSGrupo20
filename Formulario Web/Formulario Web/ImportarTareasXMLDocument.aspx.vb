@@ -35,7 +35,10 @@ Public Class ImportarTareasXMLDocument
             Xml1.DocumentSource = Server.MapPath("./App_Data/" + dropAsigP.SelectedValue + ".xml")
             Xml1.TransformSource = Server.MapPath("./App_Data/VerTablaTareas.xsl")
         Catch ex As Exception
-            MsgBox("No exite ningun fichero XML con ese codigo")
+            Label2.Text = "No exite ningun fichero XML con ese codigo"
+            Label2.ForeColor = Drawing.Color.Red
+            Label2.Visible = True
+            'MsgBox("No exite ningun fichero XML con ese codigo")
         End Try
 
     End Sub
@@ -58,12 +61,17 @@ Public Class ImportarTareasXMLDocument
 
                 Dim val = AccesoDatos.AccesoDatos.insertarTareaXML(codigo, descripcion, codAsig, hEstimadas, explotacion, tipoTarea)
                 If val = 1 Then
-                    MsgBox("Tarea con codigo" + codigo + " insertada correctamente!")
+                    'MsgBox("Tarea con codigo" + codigo + " insertada correctamente!")
+                    Label2.Text = "Tarea con codigo" + codigo + " insertada correctamente!"
+                    Label2.ForeColor = Drawing.Color.Green
+                    Label2.Visible = True
                 End If
             Else
-                MsgBox("La Tarea con codigo" + codigo + " ya existe en la BD")
+                Label2.Text = "La Tarea con codigo" + codigo + " ya existe en la BD"
+                Label2.ForeColor = Drawing.Color.Red
+                Label2.Visible = True
+                'MsgBox("La Tarea con codigo" + codigo + " ya existe en la BD")
             End If
         Next
-        Label2.Visible = True
     End Sub
 End Class

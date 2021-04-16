@@ -12,10 +12,10 @@
         ListBox1.Items.Clear()
         ListBox2.Items.Clear()
         For Each a In alumnos
-            ListBox1.Items.Add(e.ToString)
+            ListBox1.Items.Add(a.ToString)
         Next
         For Each p In profesores
-            ListBox2.Items.Add(e.ToString)
+            ListBox2.Items.Add(p.ToString)
         Next
     End Sub
 

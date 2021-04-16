@@ -100,6 +100,8 @@
                     <td class="auto-style2">&nbsp;</td>
                     <td>
                         <asp:Button ID="Button2" runat="server" Text="Confirmar" Visible="False" CausesValidation="False" />
+                        <asp:Button ID="Button3" runat="server" CausesValidation="False" PostBackUrl="~/inicio.aspx" Text="Login" />
+                        <asp:Label ID="Label4" runat="server" Text="Label" Visible="False"></asp:Label>
                     </td>
                 </tr>
             </table>

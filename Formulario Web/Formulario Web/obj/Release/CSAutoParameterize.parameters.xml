@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="HADS21-20ConnectionString-Web.config Connection String" description="HADS21-20ConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=hads21-20.database.windows.net;Initial Catalog=HADS21-20;Persist Security Info=True;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\kofid\\OneDrive\\Desktop\\PracticaHADS\\Formulario\ Web\\Formulario\ Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS21-20ConnectionString']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Kofi\\Desktop\\PracticaHADS\\Formulario\ Web\\Formulario\ Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS21-20ConnectionString']/@connectionString" />
   </parameter>
 </parameters>

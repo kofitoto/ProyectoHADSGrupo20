@@ -74,9 +74,15 @@ Public Class insertarTarea
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim val = AccesoDatos.AccesoDatos.insertarTarea(TextBox1.Text, TextBox2.Text, dropAsigP.SelectedValue, TextBox3.Text, dropTareaP.SelectedValue)
         If val = 1 Then
-            MsgBox("Tarea insertada correctamente")
+            Label1.Text = "Tarea insertada correctamente"
+            Label1.ForeColor = Drawing.Color.Green
+            Label1.Visible = True
+            'MsgBox("Tarea insertada correctamente")
         Else
-            MsgBox("Ups.. ha habido un error vuelve a intentarlo")
+            Label1.Text = "Ups.. ha habido un error vuelve a intentarlo"
+            Label1.ForeColor = Drawing.Color.Red
+            Label1.Visible = True
+            'MsgBox("Ups.. ha habido un error vuelve a intentarlo")
         End If
     End Sub
 End Class

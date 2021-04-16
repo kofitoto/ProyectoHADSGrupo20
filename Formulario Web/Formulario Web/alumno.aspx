@@ -65,22 +65,36 @@
         <table class="auto-style10">
             <tr>
                 <td class="auto-style11">
-                    <asp:Label ID="Label2" runat="server" Text="Alumnos conectados:"></asp:Label>
-                    <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
-                </td>
-                <td>
-                    <asp:Label ID="Label3" runat="server" Text="Profesores conectados:"></asp:Label>
-                    <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
-                </td>
-            </tr>
-            <tr>
-                <td class="auto-style11">
                     <asp:ScriptManager ID="ScriptManager1" runat="server">
                     </asp:ScriptManager>
                 </td>
                 <td>
                     <asp:Timer ID="Timer1" runat="server" Interval="3000">
                     </asp:Timer>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style11">
+                    <asp:UpdatePanel ID="UpdatePanel4" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label2" runat="server" Text="Alumnos conectados:"></asp:Label>
+                            <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </triggers>
+                    </asp:UpdatePanel>
+                </td>
+                <td>
+                    <asp:UpdatePanel ID="UpdatePanel3" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label3" runat="server" Text="Profesores conectados:"></asp:Label>
+                            <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </triggers>
+                    </asp:UpdatePanel>
                 </td>
             </tr>
             <tr>

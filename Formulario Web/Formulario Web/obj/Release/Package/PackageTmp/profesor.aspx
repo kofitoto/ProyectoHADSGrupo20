@@ -18,6 +18,23 @@
             text-align: center;
             font-size: xx-large;
         }
+        .auto-style4 {
+            width: 100%;
+        }
+        .auto-style6 {
+            width: 557px;
+            height: 40px;
+        }
+        .auto-style7 {
+            height: 40px;
+        }
+        .auto-style8 {
+            width: 557px;
+            height: 174px;
+        }
+        .auto-style9 {
+            height: 174px;
+        }
     </style>
 </head>
 <body>
@@ -59,6 +76,68 @@
                 </tr>
             </table>
         </div>
+        <table class="auto-style4">
+            <tr>
+                <td class="auto-style6">
+                    <asp:ScriptManager ID="ScriptManager1" runat="server">
+                    </asp:ScriptManager>
+                </td>
+                <td class="auto-style7">
+                    <asp:Timer ID="Timer1" runat="server" Interval="3000">
+                    </asp:Timer>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6">
+                    <asp:UpdatePanel ID="UpdatePanel4" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label1" runat="server" Text="Alumnos conectados:"></asp:Label>
+                            <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </td>
+                <td class="auto-style7">
+                    <asp:UpdatePanel ID="UpdatePanel5" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label2" runat="server" Text="Profesores conectados:"></asp:Label>
+                            <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style8">
+                    <asp:UpdatePanel ID="UpdatePanel3" runat="server">
+                        <ContentTemplate>
+                            <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </td>
+                <td class="auto-style9">
+                    <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                        <ContentTemplate>
+                            <asp:ListBox ID="ListBox2" runat="server"></asp:ListBox>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6"></td>
+                <td class="auto-style7"></td>
+            </tr>
+        </table>
     </form>
 </body>
 </html>

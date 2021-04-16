@@ -38,10 +38,16 @@ Public Class instanciarTarea
         Dim val = AccesoDatos.AccesoDatos.insertarTareaAlumno(emailUsuario, cod, hest, hreal)
 
         If IsPostBack And val = 1 Then
-            MsgBox("Se ha instanciado la tarea correctamente")
-            Response.Redirect(HttpContext.Current.Request.Url.ToString(), True)
+            Label1.Text = "Se ha instanciado la tarea correctamente"
+            Label1.ForeColor = Drawing.Color.Green
+            Label1.Visible = True
+            'MsgBox("Se ha instanciado la tarea correctamente")
+            'Response.Redirect(HttpContext.Current.Request.Url.ToString(), True)
         Else
-            MsgBox("Upss algo ha salido mal !")
+            Label1.Text = "Upss algo ha salido mal !"
+            Label1.ForeColor = Drawing.Color.Red
+            Label1.Visible = True
+            'MsgBox("Upss algo ha salido mal !")
         End If
     End Sub
 

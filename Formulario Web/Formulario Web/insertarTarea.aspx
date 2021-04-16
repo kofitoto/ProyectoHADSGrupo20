@@ -42,6 +42,13 @@
         .auto-style10 {
             height: 46px;
         }
+        .auto-style11 {
+            width: 870px;
+            height: 40px;
+        }
+        .auto-style12 {
+            height: 40px;
+        }
     </style>
 </head>
 <body>
@@ -88,7 +95,7 @@
                     <td class="auto-style8">Horas Estimadas:</td>
                     <td class="auto-style9">
                         <asp:TextBox ID="TextBox3" runat="server" TextMode="Number"></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBox3" ErrorMessage="RequiredFieldValidator" ForeColor="Red">Introduzca tiempo </asp:RequiredFieldValidator>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBox3" ErrorMessage="RequiredFieldValidator" ForeColor="Red">Introduzca hora(s)</asp:RequiredFieldValidator>
                     </td>
                     <td class="auto-style10"></td>
                 </tr>
@@ -105,11 +112,13 @@
                     <td class="auto-style7" rowspan="2">
                         <asp:Button ID="Button1" runat="server" Text="Añadir Tarea" />
                     </td>
-                    <td class="auto-style5">&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td class="auto-style11"></td>
+                    <td class="auto-style12"></td>
                 </tr>
                 <tr>
-                    <td class="auto-style5">&nbsp;</td>
+                    <td class="auto-style5">
+                        <asp:Label ID="Label1" runat="server" Text="Label" Visible="False"></asp:Label>
+                    </td>
                     <td>
                         <asp:LinkButton ID="LinkButton1" runat="server" CausesValidation="False" PostBackUrl="~/tareasProfesor.aspx">Ver Tarea</asp:LinkButton>
                     </td>

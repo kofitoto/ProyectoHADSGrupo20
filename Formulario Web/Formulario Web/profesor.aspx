@@ -21,9 +21,6 @@
         .auto-style4 {
             width: 100%;
         }
-        .auto-style5 {
-            width: 557px;
-        }
         .auto-style6 {
             width: 557px;
             height: 40px;
@@ -81,23 +78,37 @@
         </div>
         <table class="auto-style4">
             <tr>
-                <td class="auto-style5">
-                    <asp:Label ID="Label1" runat="server" Text="Alumnos conectados:"></asp:Label>
-                    <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
-                </td>
-                <td>
-                    <asp:Label ID="Label2" runat="server" Text="Profesores conectados:"></asp:Label>
-                    <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
-                </td>
-            </tr>
-            <tr>
-                <td class="auto-style5">
+                <td class="auto-style6">
                     <asp:ScriptManager ID="ScriptManager1" runat="server">
                     </asp:ScriptManager>
                 </td>
-                <td>
+                <td class="auto-style7">
                     <asp:Timer ID="Timer1" runat="server" Interval="3000">
                     </asp:Timer>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style6">
+                    <asp:UpdatePanel ID="UpdatePanel4" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label1" runat="server" Text="Alumnos conectados:"></asp:Label>
+                            <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </td>
+                <td class="auto-style7">
+                    <asp:UpdatePanel ID="UpdatePanel5" runat="server">
+                        <ContentTemplate>
+                            <asp:Label ID="Label2" runat="server" Text="Profesores conectados:"></asp:Label>
+                            <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
                 </td>
             </tr>
             <tr>
