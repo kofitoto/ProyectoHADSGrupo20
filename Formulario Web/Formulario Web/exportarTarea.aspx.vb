@@ -41,7 +41,7 @@ Public Class exportarTarea
             Dim da As New SqlDataAdapter
 
 
-            Dim conec As New SqlConnection("Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
+            Dim conec As New SqlConnection("")
             da = New SqlDataAdapter($"select * from {GridView1}", conec)
             da.Fill(ds)
                 Dim lugarDeGuardado As String = Server.MapPath("./App_Data/" + dropAsigP.SelectedValue + ".xml")
