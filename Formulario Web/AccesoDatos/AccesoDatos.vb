@@ -26,7 +26,7 @@ Public Class AccesoDatos
 
     Public Shared Function conectar() As String
         Try
-            conexion.ConnectionString = ""
+            conexion.ConnectionString = "Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
             conexion.Open()
         Catch ex As Exception
             Return "ERROR DE CONEXIÓN: " + ex.Message
@@ -56,7 +56,7 @@ Public Class AccesoDatos
         Dim da As New SqlDataAdapter
 
         Try
-            Dim conec As New SqlConnection("")
+            Dim conec As New SqlConnection("Server=tcp:hads21-20.database.windows.net,1433;Initial Catalog=HADS21-20;Persist Security Info=False;User ID=kd-darko@hotmail.com@hads21-20;Password=Leiringrado20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;")
             da = New SqlDataAdapter($"select * from {tabla}", conec)
 
         Catch ex As Exception
@@ -185,6 +185,24 @@ Public Class AccesoDatos
     Public Shared Function existeTareaXML(ByVal cod As String) As Integer
         Dim done As Integer
         Dim sql = $"Select count(*) from TareasGenericas where Codigo = '{cod}'"
+        conectar()
+        comando = New SqlCommand(sql, conexion)
+        Try
+            done = comando.ExecuteScalar
+        Catch ex As Exception
+            Return -1
+        End Try
+        cerrarconexion()
+        Return done
+    End Function
+
+    Public Shared Function Hmedia(ByVal asig As String) As Double
+        Dim done As Integer
+        Dim sql = $"Select AVG(HReales) 
+                    from TareasGenericas, EstudiantesTareas, Asignaturas
+                    where TareasGenericas.Codigo = EstudiantesTareas.CodTarea and
+                     Asignaturas.codigo = TareasGenericas.CodAsig and
+                    Asignaturas.Nombre = '{asig}'"
         conectar()
         comando = New SqlCommand(sql, conexion)
         Try

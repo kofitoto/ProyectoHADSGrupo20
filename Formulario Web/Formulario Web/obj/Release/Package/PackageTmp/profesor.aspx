@@ -45,7 +45,7 @@
                     <td class="auto-style2">
                         <asp:LinkButton ID="LinkButton1" runat="server">Asignaturas</asp:LinkButton>
                     </td>
-                    <td class="auto-style3" rowspan="6"><strong>Gestión Web de Tareas - Dedicación<br />
+                    <td class="auto-style3" rowspan="7"><strong>Gestión Web de Tareas - Dedicación<br />
                         <br />
                         Profesores</strong></td>
                 </tr>
@@ -72,6 +72,11 @@
                 <tr>
                     <td class="auto-style2">
                         <asp:LinkButton ID="LinkButton6" runat="server">Importar v.DataSet</asp:LinkButton>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        <asp:LinkButton ID="LinkButton7" runat="server" PostBackUrl="~/coordinador.aspx">Media de Dedicación</asp:LinkButton>
                     </td>
                 </tr>
             </table>

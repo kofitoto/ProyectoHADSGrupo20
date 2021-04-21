@@ -20,6 +20,20 @@
         .auto-style4 {
             height: 30px;
         }
+        .auto-style5 {
+            width: 130px;
+            height: 54px;
+        }
+        .auto-style6 {
+            height: 54px;
+        }
+        .auto-style7 {
+            width: 130px;
+            height: 86px;
+        }
+        .auto-style8 {
+            height: 86px;
+        }
     </style>
 </head>
 <body>
@@ -27,13 +41,30 @@
         <div>
             <table class="auto-style1">
                 <tr>
+                    <td class="auto-style5">
+                        </td>
+                    <td class="auto-style6">
+                        <asp:ScriptManager ID="ScriptManager1" runat="server">
+                        </asp:ScriptManager>
+                    </td>
+                </tr>
+                <tr>
                     <td class="auto-style2">
                         <asp:Label ID="Label1" runat="server" Text="Email"></asp:Label>
                     </td>
                     <td>
-                        <asp:TextBox ID="TextBox1" runat="server" TextMode="Email"></asp:TextBox>
-                        <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="TextBox1" ErrorMessage="RequiredFieldValidator" ForeColor="Red">Introduzca un correo</asp:RequiredFieldValidator>
-                        <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ErrorMessage="RegularExpressionValidator" ControlToValidate="TextBox1" ForeColor="#FF3300" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*">Direccion incorrecta</asp:RegularExpressionValidator>
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                            <ContentTemplate>
+                                <asp:TextBox ID="TextBox1" runat="server" TextMode="Email"></asp:TextBox>
+                                <asp:Button ID="Button3" runat="server" CausesValidation="False" Text="Comprobar Matriculado" />
+                                <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ControlToValidate="TextBox1" ErrorMessage="RequiredFieldValidator" ForeColor="Red">Introduzca un correo</asp:RequiredFieldValidator>
+                                <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox1" ErrorMessage="RegularExpressionValidator" ForeColor="#FF3300" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*">Direccion incorrecta</asp:RegularExpressionValidator>
+                                <asp:Label ID="Label9" runat="server" Text="Label" Visible="False" style="z-index: 1; position: relative"></asp:Label>
+                            </ContentTemplate>
+                            <Triggers>
+                                <asp:AsyncPostBackTrigger ControlID="Button3" />
+                            </Triggers>
+                        </asp:UpdatePanel>
                     </td>
                 </tr>
                 <tr>
@@ -79,10 +110,10 @@
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                    <td class="auto-style2">
+                    <td class="auto-style7">
                         <asp:Label ID="Label7" runat="server" Text="Rol"></asp:Label>
                     </td>
-                    <td>
+                    <td class="auto-style8">
                         <asp:RadioButtonList ID="RadioButtonList1" runat="server">
                             <asp:ListItem Selected="True">Alumno</asp:ListItem>
                             <asp:ListItem>Profesor</asp:ListItem>
@@ -91,10 +122,19 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">
-                        <asp:Button ID="Button1" runat="server" Text="Registrar" />
+                        <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                            <ContentTemplate>
+                                <asp:Button ID="Button1" runat="server" Text="Registrar" Visible="False" />
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
                     </td>
                     <td>
-                        <asp:Label ID="Label8" runat="server" ForeColor="Lime" Text="Label" Visible="False"></asp:Label>
+                        <asp:UpdatePanel ID="UpdatePanel3" runat="server">
+                            <ContentTemplate>
+                                <asp:Button ID="Button2" runat="server" CausesValidation="False" PostBackUrl="~/inicio.aspx" Text="Login" />
+                                <asp:Label ID="Label10" runat="server" Text="Label" Visible="False"></asp:Label>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
                     </td>
                 </tr>
             </table>

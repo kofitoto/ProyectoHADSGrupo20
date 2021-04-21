@@ -1,5 +1,4 @@
 ﻿Imports System.Data.SqlClient
-Imports System.Xml
 
 
 
@@ -32,61 +31,30 @@ Public Class exportarTarea
     End Sub
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        If GridView1.Rows.Count = 0 Then
+        If GridView1.Rows.Count < 0 Then
             Label2.Text = "No hay nada que exportar"
             Label2.ForeColor = Drawing.Color.Red
             Label2.Visible = True
         Else
-            Dim ds As New DataSet
-            Dim da As New SqlDataAdapter
+            Dim lugarDeGuardado As String = Server.MapPath("./App_Data/" + dropAsigP.SelectedValue + ".xml")
+            Dim dV As New DataView
+            Dim dT As New DataTable
+            dV = SqlDataSource1.Select(DataSourceSelectArguments.Empty)
+            dT = dV.ToTable
+            dT.Namespace = "http://ji.ehu.es/" + dropAsigP.SelectedValue
+            dT.TableName = "tarea"
+            dT.Columns(0).ColumnMapping = MappingType.Attribute
+            dT.WriteXml(lugarDeGuardado)
+            'Response.ContentType = "text/xml"
+            'Response.ContentEncoding = System.Text.Encoding.UTF8
+            'Response.AppendHeader("NombreCabecera", "MensajeCabecera")
+            'Response.TransmitFile(Server.MapPath("~/tuRuta/TuArchivo.xml"))
+            'Response.End()
 
-
-            Dim conec As New SqlConnection("")
-            da = New SqlDataAdapter($"select * from {GridView1}", conec)
-            da.Fill(ds)
-                Dim lugarDeGuardado As String = Server.MapPath("./App_Data/" + dropAsigP.SelectedValue + ".xml")
-                'AccesoDatos.AccesoDatos.exportarTareaXML(GridView1, lugarDeGuardado)
-                ds.WriteXml(lugarDeGuardado)
-                Label2.Visible = True
+            Label2.Text = "Documento exportado correctamente!"
+            Label2.ForeColor = Drawing.Color.Green
+            Label2.Visible = True
         End If
 
     End Sub
-
-
-    'Dim xmld As New XmlDocument
-    'Dim xt As XmlText
-    'Dim elementoTareas As XmlElement = xmld.CreateElement("tareas")
-    'xmld.AppendChild(elementoTareas)
-    'For Each t As GridViewRow In tareas
-    '    Dim elementoTarea As XmlElement = xmld.CreateElement("tarea")
-    '    For Each columna As TableCell In t.Cells
-    '        Dim nombreColumna = columna.ToString
-    '        Dim camp As XmlElement = xmld.CreateElement(nombreColumna)
-    '        If nombreColumna = "codigo" Then
-    '            Dim at As XmlAttribute = xmld.CreateAttribute(nombreColumna)
-    '            xt = xmld.CreateTextNode(columna.Text)
-    '            at.AppendChild(xt)
-    '            elementoTarea.Attributes.Append(at)
-    '        ElseIf nombreColumna = "descripcion" Then
-    '            xt = xmld.CreateTextNode(columna.Text)
-    '            camp.AppendChild(xt)
-    '            elementoTarea.AppendChild(camp)
-    '        ElseIf nombreColumna = "hestimadas" Then
-    '            xt = xmld.CreateTextNode(columna.Text)
-    '            camp.AppendChild(xt)
-    '            elementoTarea.AppendChild(camp)
-    '        ElseIf nombreColumna = "explotacion" Then
-    '            xt = xmld.CreateTextNode(columna.Text)
-    '            camp.AppendChild(xt)
-    '            elementoTarea.AppendChild(camp)
-    '        ElseIf nombreColumna = "tipotarea" Then
-    '            xt = xmld.CreateTextNode(columna.Text)
-    '            camp.AppendChild(xt)
-    '            elementoTarea.AppendChild(camp)
-    '        End If
-    '    Next
-    '    xmld.DocumentElement.AppendChild(elementoTarea)
-    'Next
-    'xmld.Save(lugarDeGuardado)
-
 End Class

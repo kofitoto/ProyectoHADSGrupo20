@@ -217,6 +217,51 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Formulario_Web.coordinador._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.coordinador._DropDownList1">
+<summary>
+Control DropDownList1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.coordinador._SqlDataSource1">
+<summary>
+Control SqlDataSource1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.coordinador._Button1">
+<summary>
+Control Button1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.coordinador._Label1">
+<summary>
+Control Label1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Formulario_Web.exportarTarea._form2">
 <summary>
 Control form2.
@@ -694,6 +739,15 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Formulario_Web.registro._ScriptManager1">
+<summary>
+Control ScriptManager1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Formulario_Web.registro._Label1">
 <summary>
 Control Label1.
@@ -703,9 +757,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Formulario_Web.registro._UpdatePanel1">
+<summary>
+Control UpdatePanel1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Formulario_Web.registro._TextBox1">
 <summary>
 Control TextBox1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.registro._Button3">
+<summary>
+Control Button3.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -724,6 +796,15 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Formulario_Web.registro._RegularExpressionValidator1">
 <summary>
 Control RegularExpressionValidator1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.registro._Label9">
+<summary>
+Control Label9.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -874,6 +955,15 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Formulario_Web.registro._UpdatePanel2">
+<summary>
+Control UpdatePanel2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Formulario_Web.registro._Button1">
 <summary>
 Control Button1.
@@ -883,9 +973,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Formulario_Web.registro._Label8">
+<member name="F:Formulario_Web.registro._UpdatePanel3">
 <summary>
-Control Label8.
+Control UpdatePanel3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.registro._Button2">
+<summary>
+Control Button2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Formulario_Web.registro._Label10">
+<summary>
+Control Label10.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -1144,6 +1252,15 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Formulario_Web.WebForm4._LinkButton7">
+<summary>
+Control LinkButton7.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Formulario_Web.WebForm4._ScriptManager1">
 <summary>
 Control ScriptManager1.
@@ -1332,6 +1449,36 @@ Control GridView1.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member>
+<member name="T:Formulario_Web.es.ehusw.Matriculas">
+<remarks/>
+</member>
+<member name="M:Formulario_Web.es.ehusw.Matriculas.#ctor">
+<remarks/>
+</member>
+<member name="E:Formulario_Web.es.ehusw.Matriculas.comprobarCompleted">
+<remarks/>
+</member>
+<member name="M:Formulario_Web.es.ehusw.Matriculas.comprobar(System.String)">
+<remarks/>
+</member>
+<member name="M:Formulario_Web.es.ehusw.Matriculas.comprobarAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:Formulario_Web.es.ehusw.Matriculas.comprobarAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:Formulario_Web.es.ehusw.Matriculas.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:Formulario_Web.es.ehusw.comprobarCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:Formulario_Web.es.ehusw.comprobarCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:Formulario_Web.es.ehusw.comprobarCompletedEventArgs.Result">
+<remarks/>
 </member>
 </members>
 </doc>

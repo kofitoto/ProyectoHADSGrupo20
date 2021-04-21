@@ -222,3 +222,5 @@ C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\B
 C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.pdb
 C:\Users\kofid\OneDrive\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\OC.Core.Crypto.pdb
 C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\AjaxControlToolkit.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\bin\Formulario Web.XmlSerializers.dll
+C:\Users\Kofi\Desktop\PracticaHADS\Formulario Web\Formulario Web\obj\Release\Formulario Web.XmlSerializers.dll
